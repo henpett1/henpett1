@@ -1,5 +1,5 @@
 <p align="center">
-    <br align="center">Javascript developer.</br>
+    <br align="center">Golang and Javascript developer.</br>
   </p>
 
 
